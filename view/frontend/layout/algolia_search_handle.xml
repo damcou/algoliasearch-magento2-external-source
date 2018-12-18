@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
+    <head>
+         <script src="Damcou_ExternalSource::hooks.js" />
+    </head>
+    <body>
+        <referenceBlock name="before.body.end">
+             <block class="Magento\Framework\View\Element\Template" name="custom.autocomplete.external" template="Damcou_ExternalSource::autocomplete/external.phtml"/>
+        </referenceBlock>
+    </body>
+</page>

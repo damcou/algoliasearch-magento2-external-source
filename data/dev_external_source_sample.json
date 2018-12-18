@@ -1,0 +1,37 @@
+[
+	{
+		"objectID" : 1,
+		"post_id" : "1",
+		"post_title" : "My products from my CMS",
+		"post_author" : "John Doe",
+		"url" :"my-cms-products"
+	},
+	{
+		"objectID" : 2,
+		"post_id" : "2",
+		"post_title" : "My categories from my CMS",
+		"post_author" : "Jane Doe",
+		"url" :"my-cms-categories"
+	},
+	{
+		"objectID" : 3,
+		"post_id" : "3",
+		"post_title" : "My pages coming from my CMS",
+		"post_author" : "John Doe",
+		"url" :"my-cms-pages"
+	},
+	{
+		"objectID" : 4,
+		"post_id" : "4",
+		"post_title" : "My article related to another subject",
+		"post_author" : "Alex Random",
+		"url" :"my-random-article"
+	},
+	{
+		"objectID" : 5,
+		"post_id" : "5",
+		"post_title" : "My last record",
+		"post_author" : "Bruce Whoever",
+		"url" :"my-last-record"
+	}
+]
